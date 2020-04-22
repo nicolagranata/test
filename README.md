@@ -152,24 +152,24 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 ## **Cold** (7 skins): Cold Gray Background and Cold Token Colors
 <table>
-<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-viserion-preview.png" title="Go to Apophis Dark Matter - Cold - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-cold-viserion-preview.png"  alt="Apophis Dark Matter - Cold - Viserion"></a>
-</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-viserion-preview.png" title="Go to Apophis Dark Matter - Cold - Viserion" target="github">Viserion</a> 
+<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-cold-kronos-preview.png"  alt="Apophis Dark Matter - Cold - Kronos"></a>
+</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" target="github">Kronos</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Cold - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-cold-komodo-preview.png"  alt="Apophis Dark Matter - Cold - Komodo"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-cold-kronos-preview.png"  alt="Apophis Dark Matter - Cold - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-meabh-preview.png" title="Go to Apophis Dark Matter - Cold - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-cold-meabh-preview.png"  alt="Apophis Dark Matter - Cold - Meabh"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-mystic-river-preview.png" title="Go to Apophis Dark Matter - Cold - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-cold-mystic-river-preview.png"  alt="Apophis Dark Matter - Cold - Mystic River"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" target="github">Komodo</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-meabh-preview.png" title="Go to Apophis Dark Matter - Cold - Meabh" target="github">Meabh</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-mystic-river-preview.png" title="Go to Apophis Dark Matter - Cold - Mystic River" target="github">Mystic River</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-mystic-river-preview.png" title="Go to Apophis Dark Matter - Cold - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-cold-mystic-river-preview.png"  alt="Apophis Dark Matter - Cold - Mystic River"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-obsidian-preview.png" title="Go to Apophis Dark Matter - Cold - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-cold-obsidian-preview.png"  alt="Apophis Dark Matter - Cold - Obsidian"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-obsidian-preview.png" title="Go to Apophis Dark Matter - Cold - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-cold-obsidian-preview.png"  alt="Apophis Dark Matter - Cold - Obsidian"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-viserion-preview.png" title="Go to Apophis Dark Matter - Cold - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-cold-viserion-preview.png"  alt="Apophis Dark Matter - Cold - Viserion"></a>
 </td><td colspan="2" rowspan="2" width="50%"></td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-mystic-river-preview.png" title="Go to Apophis Dark Matter - Cold - Mystic River" target="github">Mystic River</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-obsidian-preview.png" title="Go to Apophis Dark Matter - Cold - Obsidian" target="github">Obsidian</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-obsidian-preview.png" title="Go to Apophis Dark Matter - Cold - Obsidian" target="github">Obsidian</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-viserion-preview.png" title="Go to Apophis Dark Matter - Cold - Viserion" target="github">Viserion</a> 
 </td></tr>
 
 </table>
@@ -194,8 +194,8 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 ## **Equinox** (7 skins): Dark Night UI and Desatured Token Colors
 <table>
-<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-equinox-meabh-preview.png"  alt="Apophis Dark Matter - Equinox - Meabh"></a>
-</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" target="github">Meabh</a> 
+<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-obsidian-preview.png" title="Go to Apophis Dark Matter - Equinox - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-equinox-obsidian-preview.png"  alt="Apophis Dark Matter - Equinox - Obsidian"></a>
+</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-obsidian-preview.png" title="Go to Apophis Dark Matter - Equinox - Obsidian" target="github">Obsidian</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Equinox - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" target="github"><img src="./_gfx/apophis-dark-matter-equinox-burn-preview.png"  alt="Apophis Dark Matter - Equinox - Burn"></a>
@@ -207,11 +207,11 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-komodo-preview.png" title="Go to Apophis Dark Matter - Equinox - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" target="github">Kronos</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png"  alt="Apophis Dark Matter - Equinox - Mystic River"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-obsidian-preview.png" title="Go to Apophis Dark Matter - Equinox - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-equinox-obsidian-preview.png"  alt="Apophis Dark Matter - Equinox - Obsidian"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-equinox-meabh-preview.png"  alt="Apophis Dark Matter - Equinox - Meabh"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png"  alt="Apophis Dark Matter - Equinox - Mystic River"></a>
 </td><td colspan="2" rowspan="2" width="50%"></td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" target="github">Mystic River</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-obsidian-preview.png" title="Go to Apophis Dark Matter - Equinox - Obsidian" target="github">Obsidian</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" target="github">Meabh</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" target="github">Mystic River</a> 
 </td></tr>
 
 </table>
@@ -221,17 +221,17 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 ## **Flat** (7 skins): Flat Gray Background and Default Token Colos
 <table>
-<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Flat - Black Pond Has My Heart"></a>
-</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-flat-meabh-preview.png"  alt="Apophis Dark Matter - Flat - Meabh"></a>
+</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" target="github">Meabh</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-flat-komodo-preview.png"  alt="Apophis Dark Matter - Flat - Komodo"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Flat - Black Pond Has My Heart"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-flat-komodo-preview.png"  alt="Apophis Dark Matter - Flat - Komodo"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-flat-kronos-preview.png"  alt="Apophis Dark Matter - Flat - Kronos"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-flat-meabh-preview.png"  alt="Apophis Dark Matter - Flat - Meabh"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-mystic-river-preview.png" title="Go to Apophis Dark Matter - Flat - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-flat-mystic-river-preview.png"  alt="Apophis Dark Matter - Flat - Mystic River"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" target="github">Komodo</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" target="github">Kronos</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" target="github">Meabh</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-mystic-river-preview.png" title="Go to Apophis Dark Matter - Flat - Mystic River" target="github">Mystic River</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-obsidian-preview.png" title="Go to Apophis Dark Matter - Flat - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-flat-obsidian-preview.png"  alt="Apophis Dark Matter - Flat - Obsidian"></a>
@@ -248,24 +248,24 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 ## **Insomnia** (8 skins): Flat Grayed UI and Satured Token Colors
 <table>
-<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png" title="Go to Apophis Dark Matter - Insomnia - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png"  alt="Apophis Dark Matter - Insomnia - Mystic River"></a>
-</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png" title="Go to Apophis Dark Matter - Insomnia - Mystic River" target="github">Mystic River</a> 
+<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Insomnia - Black Pond Has My Heart"></a>
+</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Insomnia - Black Pond Has My Heart"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-burn-preview.png" title="Go to Apophis Dark Matter - Insomnia - Burn" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-burn-preview.png"  alt="Apophis Dark Matter - Insomnia - Burn"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-burn-preview.png" title="Go to Apophis Dark Matter - Insomnia - Burn" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-burn-preview.png"  alt="Apophis Dark Matter - Insomnia - Burn"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-komodo-preview.png" title="Go to Apophis Dark Matter - Insomnia - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-komodo-preview.png"  alt="Apophis Dark Matter - Insomnia - Komodo"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-kronos-preview.png" title="Go to Apophis Dark Matter - Insomnia - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-kronos-preview.png"  alt="Apophis Dark Matter - Insomnia - Kronos"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-meabh-preview.png" title="Go to Apophis Dark Matter - Insomnia - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-meabh-preview.png"  alt="Apophis Dark Matter - Insomnia - Meabh"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-burn-preview.png" title="Go to Apophis Dark Matter - Insomnia - Burn" target="github">Burn</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-burn-preview.png" title="Go to Apophis Dark Matter - Insomnia - Burn" target="github">Burn</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-komodo-preview.png" title="Go to Apophis Dark Matter - Insomnia - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-kronos-preview.png" title="Go to Apophis Dark Matter - Insomnia - Kronos" target="github">Kronos</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-meabh-preview.png" title="Go to Apophis Dark Matter - Insomnia - Meabh" target="github">Meabh</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-meabh-preview.png" title="Go to Apophis Dark Matter - Insomnia - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-meabh-preview.png"  alt="Apophis Dark Matter - Insomnia - Meabh"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png" title="Go to Apophis Dark Matter - Insomnia - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png"  alt="Apophis Dark Matter - Insomnia - Mystic River"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-obsidian-preview.png" title="Go to Apophis Dark Matter - Insomnia - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png"  alt="Apophis Dark Matter - Insomnia - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-viserion-preview.png" title="Go to Apophis Dark Matter - Insomnia - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-viserion-preview.png"  alt="Apophis Dark Matter - Insomnia - Viserion"></a>
 </td><td colspan="1" rowspan="2" width="25%"></td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-meabh-preview.png" title="Go to Apophis Dark Matter - Insomnia - Meabh" target="github">Meabh</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png" title="Go to Apophis Dark Matter - Insomnia - Mystic River" target="github">Mystic River</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-obsidian-preview.png" title="Go to Apophis Dark Matter - Insomnia - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Insomnia - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-viserion-preview.png" title="Go to Apophis Dark Matter - Insomnia - Viserion" target="github">Viserion</a> 
 </td></tr>
@@ -299,26 +299,26 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 ## **Nadir** (8 skins): Flat Grayed UI and Desatured Token Colors
 <table>
-<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-nadir-komodo-preview.png"  alt="Apophis Dark Matter - Nadir - Komodo"></a>
-</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" target="github">Komodo</a> 
+<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-viserion-preview.png" title="Go to Apophis Dark Matter - Nadir - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-nadir-viserion-preview.png"  alt="Apophis Dark Matter - Nadir - Viserion"></a>
+</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-viserion-preview.png" title="Go to Apophis Dark Matter - Nadir - Viserion" target="github">Viserion</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Nadir - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Nadir - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-burn-preview.png" title="Go to Apophis Dark Matter - Nadir - Burn" target="github"><img src="./_gfx/apophis-dark-matter-nadir-burn-preview.png"  alt="Apophis Dark Matter - Nadir - Burn"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-nadir-komodo-preview.png"  alt="Apophis Dark Matter - Nadir - Komodo"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-nadir-kronos-preview.png"  alt="Apophis Dark Matter - Nadir - Kronos"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-nadir-meabh-preview.png"  alt="Apophis Dark Matter - Nadir - Meabh"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Nadir - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-burn-preview.png" title="Go to Apophis Dark Matter - Nadir - Burn" target="github">Burn</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" target="github">Kronos</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github">Meabh</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png"  alt="Apophis Dark Matter - Nadir - Mystic River"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-nadir-meabh-preview.png"  alt="Apophis Dark Matter - Nadir - Meabh"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png"  alt="Apophis Dark Matter - Nadir - Mystic River"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-obsidian-preview.png" title="Go to Apophis Dark Matter - Nadir - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-nadir-obsidian-preview.png"  alt="Apophis Dark Matter - Nadir - Obsidian"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-viserion-preview.png" title="Go to Apophis Dark Matter - Nadir - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-nadir-viserion-preview.png"  alt="Apophis Dark Matter - Nadir - Viserion"></a>
 </td><td colspan="1" rowspan="2" width="25%"></td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" target="github">Mystic River</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github">Meabh</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" target="github">Mystic River</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-obsidian-preview.png" title="Go to Apophis Dark Matter - Nadir - Obsidian" target="github">Obsidian</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-viserion-preview.png" title="Go to Apophis Dark Matter - Nadir - Viserion" target="github">Viserion</a> 
 </td></tr>
 
 </table>
@@ -328,18 +328,18 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 ## **Warm** (7 skins): Warm Gray Background and Warm Token Colors
 <table>
-<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-warm-kronos-preview.png"  alt="Apophis Dark Matter - Warm - Kronos"></a>
-</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" target="github">Kronos</a> 
+<tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-warm-mystic-river-preview.png"  alt="Apophis Dark Matter - Warm - Mystic River"></a>
+</td></tr><tr><td colspan="4" style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github">Mystic River</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Warm - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Warm - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-komodo-preview.png" title="Go to Apophis Dark Matter - Warm - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-warm-komodo-preview.png"  alt="Apophis Dark Matter - Warm - Komodo"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-warm-kronos-preview.png"  alt="Apophis Dark Matter - Warm - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-warm-meabh-preview.png"  alt="Apophis Dark Matter - Warm - Meabh"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-warm-mystic-river-preview.png"  alt="Apophis Dark Matter - Warm - Mystic River"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Warm - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-komodo-preview.png" title="Go to Apophis Dark Matter - Warm - Komodo" target="github">Komodo</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" target="github">Meabh</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github">Mystic River</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-obsidian-preview.png" title="Go to Apophis Dark Matter - Warm - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-warm-obsidian-preview.png"  alt="Apophis Dark Matter - Warm - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-viserion-preview.png" title="Go to Apophis Dark Matter - Warm - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-warm-viserion-preview.png"  alt="Apophis Dark Matter - Warm - Viserion"></a>
@@ -383,35 +383,35 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 | N.|Font Download |S |W |LH |LS |Lig. |&#9733; | &#128195;  |
 |---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 01 | [B612 Mono](https://github.com/BourgeoisBear/DaddyTimeMono "Download B612 Mono") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-b612-mono)  |
-| 02 | [Cascadia Code](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Code") | 11 | 500 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-cascadia-code)  |
-| 03 | [Cascadia Mono](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Mono") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-cascadia-mono)  |
-| 04 | [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono "Download DaddyTimeMono") | 12 | 500 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-daddytimemono)  |
-| 05 | [DejaVu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode/releases/ "Download DejaVu Sans Code") | 11 | 500 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-dejavu-sans-code)  |
-| 06 | [DejaVu Sans Mono](https://sourceforge.net/projects/dejavu/ "Download DejaVu Sans Mono") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-dejavu-sans-mono)  |
-| 07 | [DejaVu Sans Mono - Bront](https://github.com/chrismwendt/bront "Download DejaVu Sans Mono - Bront") | 11 | 300 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-dejavu-sans-mono-bront)  |
-| 08 | [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released "Download Envy Code R") | 11 | 500 | 14 | 0.0 | <span style="color:IndianRed;">false</span> | 4.5 | [&#128195;](#font-envy-code-r)  |
-| 09 | [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans/releases "Download Fantasque Sans Mono") | 12 | 500 | 16 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-fantasque-sans-mono)  |
-| 10 | [Fira Code](https://github.com/tonsky/FiraCode "Download Fira Code") | 11 | 300 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-fira-code)  |
-| 11 | [Fira Mono](https://fonts.google.com/specimen/Fira+Mono "Download Fira Mono") | 11 | 400 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-fira-mono)  |
-| 12 | [Hack](https://sourcefoundry.org/hack "Download Hack") | 10 | 500 | 14 | 0.0 | <span style="color:IndianRed;">false</span> | 5.0 | [&#128195;](#font-hack)  |
-| 13 | [Hasklig](https://github.com/i-tu/Hasklig "Download Hasklig") | 11 | 400 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-hasklig)  |
-| 14 | [Inconsolata](https://fonts.google.com/specimen/Inconsolata "Download Inconsolata") | 12 | 400 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-inconsolata)  |
-| 15 | [Input Mono](https://input.fontbureau.com/download "Download Input Mono") | 11 | 300 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-input-mono)  |
-| 16 | [Input Mono Condensed](https://input.fontbureau.com/download "Download Input Mono Condensed") | 11 | 300 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-input-mono-condensed)  |
-| 17 | [Iosevka](https://typeof.net/Iosevka "Download Iosevka") | 13 | 300 | 18 | 0.2 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-iosevka)  |
-| 18 | [Menlo](https://github.com/hbin/top-programming-fonts "Download Menlo") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-menlo)  |
-| 19 | [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html "Download Mensch") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-mensch)  |
-| 20 | [Monofur NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur "Download Monofur NF") | 14 | 500 | 16 | 0.0 | <span style="color:ForestGreen;">true</span> | 3.0 | [&#128195;](#font-monofur-nf)  |
-| 21 | [Monoid](https://larsenwork.com/monoid/ "Download Monoid") | 12 | 400 | 18 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-monoid)  |
-| 22 | [Monoisome](https://larsenwork.com/monoid/ "Download Monoisome") | 12 | 400 | 18 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-monoisome)  |
-| 23 | [Office Code Pro](https://github.com/nathco/Office-Code-Pro "Download Office Code Pro") | 11 | 400 | 14 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-office-code-pro)  |
-| 24 | [PT Mono](https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono "Download PT Mono") | 11 | 500 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-pt-mono)  |
-| 25 | [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono "Download Roboto Mono") | 10 | 400 | 14 | 0.2 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-roboto-mono)  |
-| 26 | [Sometype Mono](https://monospacedfont.com/ "Download Sometype Mono") | 11 | 400 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-sometype-mono)  |
-| 27 | [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro "Download Source Code Pro") | 12 | 400 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 3.0 | [&#128195;](#font-source-code-pro)  |
-| 28 | [Ubuntu Mono - Bront](https://github.com/chrismwendt/bront "Download Ubuntu Mono - Bront") | 12 | 300 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-ubuntu-mono-bront)  |
-| 29 | [Victor Mono](https://rubjo.github.io/victor-mono "Download Victor Mono") | 12 | 400 | 16 | 0.1 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-victor-mono)  |
+| 01 | [B612 Mono](https://github.com/BourgeoisBear/DaddyTimeMono "Download B612 Mono") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-01-b612-mono)  |
+| 02 | [Cascadia Code](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Code") | 11 | 500 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-02-cascadia-code)  |
+| 03 | [Cascadia Mono](https://github.com/microsoft/cascadia-code/releases "Download Cascadia Mono") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-03-cascadia-mono)  |
+| 04 | [DaddyTimeMono](https://github.com/BourgeoisBear/DaddyTimeMono "Download DaddyTimeMono") | 12 | 500 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-04-daddytimemono)  |
+| 05 | [DejaVu Sans Code](https://github.com/SSNikolaevich/DejaVuSansCode/releases/ "Download DejaVu Sans Code") | 11 | 500 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-05-dejavu-sans-code)  |
+| 06 | [DejaVu Sans Mono](https://sourceforge.net/projects/dejavu/ "Download DejaVu Sans Mono") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-06-dejavu-sans-mono)  |
+| 07 | [DejaVu Sans Mono - Bront](https://github.com/chrismwendt/bront "Download DejaVu Sans Mono - Bront") | 11 | 300 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-07-dejavu-sans-mono-bront)  |
+| 08 | [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released "Download Envy Code R") | 11 | 500 | 14 | 0.0 | <span style="color:IndianRed;">false</span> | 4.5 | [&#128195;](#font-08-envy-code-r)  |
+| 09 | [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans/releases "Download Fantasque Sans Mono") | 12 | 500 | 16 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-09-fantasque-sans-mono)  |
+| 10 | [Fira Code](https://github.com/tonsky/FiraCode "Download Fira Code") | 11 | 300 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-10-fira-code)  |
+| 11 | [Fira Mono](https://fonts.google.com/specimen/Fira+Mono "Download Fira Mono") | 11 | 400 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-11-fira-mono)  |
+| 12 | [Hack](https://sourcefoundry.org/hack "Download Hack") | 10 | 500 | 14 | 0.0 | <span style="color:IndianRed;">false</span> | 5.0 | [&#128195;](#font-12-hack)  |
+| 13 | [Hasklig](https://github.com/i-tu/Hasklig "Download Hasklig") | 11 | 400 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-13-hasklig)  |
+| 14 | [Inconsolata](https://fonts.google.com/specimen/Inconsolata "Download Inconsolata") | 12 | 400 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-14-inconsolata)  |
+| 15 | [Input Mono](https://input.fontbureau.com/download "Download Input Mono") | 11 | 300 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-15-input-mono)  |
+| 16 | [Input Mono Condensed](https://input.fontbureau.com/download "Download Input Mono Condensed") | 11 | 300 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-16-input-mono-condensed)  |
+| 17 | [Iosevka](https://typeof.net/Iosevka "Download Iosevka") | 13 | 300 | 18 | 0.2 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-17-iosevka)  |
+| 18 | [Menlo](https://github.com/hbin/top-programming-fonts "Download Menlo") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-18-menlo)  |
+| 19 | [Mensch](https://robey.lag.net/2010/06/21/mensch-font.html "Download Mensch") | 11 | 500 | 15 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-19-mensch)  |
+| 20 | [Monofur NF](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur "Download Monofur NF") | 14 | 500 | 16 | 0.0 | <span style="color:ForestGreen;">true</span> | 3.0 | [&#128195;](#font-20-monofur-nf)  |
+| 21 | [Monoid](https://larsenwork.com/monoid/ "Download Monoid") | 12 | 400 | 18 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-21-monoid)  |
+| 22 | [Monoisome](https://larsenwork.com/monoid/ "Download Monoisome") | 12 | 400 | 18 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-22-monoisome)  |
+| 23 | [Office Code Pro](https://github.com/nathco/Office-Code-Pro "Download Office Code Pro") | 11 | 400 | 14 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-23-office-code-pro)  |
+| 24 | [PT Mono](https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono "Download PT Mono") | 11 | 500 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-24-pt-mono)  |
+| 25 | [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono "Download Roboto Mono") | 10 | 400 | 14 | 0.2 | <span style="color:IndianRed;">false</span> | 4.0 | [&#128195;](#font-25-roboto-mono)  |
+| 26 | [Sometype Mono](https://monospacedfont.com/ "Download Sometype Mono") | 11 | 400 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-26-sometype-mono)  |
+| 27 | [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro "Download Source Code Pro") | 12 | 400 | 16 | 0.0 | <span style="color:IndianRed;">false</span> | 3.0 | [&#128195;](#font-27-source-code-pro)  |
+| 28 | [Ubuntu Mono - Bront](https://github.com/chrismwendt/bront "Download Ubuntu Mono - Bront") | 12 | 300 | 15 | 0.0 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-28-ubuntu-mono-bront)  |
+| 29 | [Victor Mono](https://rubjo.github.io/victor-mono "Download Victor Mono") | 12 | 400 | 16 | 0.1 | <span style="color:ForestGreen;">true</span> | 4.0 | [&#128195;](#font-29-victor-mono)  |
 
 
 
@@ -421,7 +421,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 <table>
 <tr>
-<td><a id=font-b612-mono></a>01 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono">B612 Mono &#11206;</a>
+<td><a id=font-01-b612-mono></a>01 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono">B612 Mono &#11206;</a>
 
 ```javascript
 // Font: B612 Mono
@@ -434,7 +434,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-cascadia-code></a>02 - <a href="https://github.com/microsoft/cascadia-code/releases">Cascadia Code &#11206;</a>
+<td><a id=font-02-cascadia-code></a>02 - <a href="https://github.com/microsoft/cascadia-code/releases">Cascadia Code &#11206;</a>
 
 ```javascript
 // Font: Cascadia Code
@@ -449,7 +449,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-cascadia-mono></a>03 - <a href="https://github.com/microsoft/cascadia-code/releases">Cascadia Mono &#11206;</a>
+<td><a id=font-03-cascadia-mono></a>03 - <a href="https://github.com/microsoft/cascadia-code/releases">Cascadia Mono &#11206;</a>
 
 ```javascript
 // Font: Cascadia Mono
@@ -462,7 +462,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-daddytimemono></a>04 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono">DaddyTimeMono &#11206;</a>
+<td><a id=font-04-daddytimemono></a>04 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono">DaddyTimeMono &#11206;</a>
 
 ```javascript
 // Font: DaddyTimeMono
@@ -477,7 +477,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-dejavu-sans-code></a>05 - <a href="https://github.com/SSNikolaevich/DejaVuSansCode/releases/">DejaVu Sans Code &#11206;</a>
+<td><a id=font-05-dejavu-sans-code></a>05 - <a href="https://github.com/SSNikolaevich/DejaVuSansCode/releases/">DejaVu Sans Code &#11206;</a>
 
 ```javascript
 // Font: DejaVu Sans Code
@@ -490,7 +490,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-dejavu-sans-mono></a>06 - <a href="https://sourceforge.net/projects/dejavu/">DejaVu Sans Mono &#11206;</a>
+<td><a id=font-06-dejavu-sans-mono></a>06 - <a href="https://sourceforge.net/projects/dejavu/">DejaVu Sans Mono &#11206;</a>
 
 ```javascript
 // Font: DejaVu Sans Mono
@@ -505,7 +505,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-dejavu-sans-mono-bront></a>07 - <a href="https://github.com/chrismwendt/bront">DejaVu Sans Mono - Bront &#11206;</a>
+<td><a id=font-07-dejavu-sans-mono-bront></a>07 - <a href="https://github.com/chrismwendt/bront">DejaVu Sans Mono - Bront &#11206;</a>
 
 ```javascript
 // Font: DejaVu Sans Mono - Bront
@@ -518,7 +518,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-envy-code-r></a>08 - <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released">Envy Code R &#11206;</a>
+<td><a id=font-08-envy-code-r></a>08 - <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released">Envy Code R &#11206;</a>
 
 ```javascript
 // Font: Envy Code R
@@ -533,7 +533,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-fantasque-sans-mono></a>09 - <a href="https://github.com/belluzj/fantasque-sans/releases">Fantasque Sans Mono &#11206;</a>
+<td><a id=font-09-fantasque-sans-mono></a>09 - <a href="https://github.com/belluzj/fantasque-sans/releases">Fantasque Sans Mono &#11206;</a>
 
 ```javascript
 // Font: Fantasque Sans Mono
@@ -546,7 +546,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-fira-code></a>10 - <a href="https://github.com/tonsky/FiraCode">Fira Code &#11206;</a>
+<td><a id=font-10-fira-code></a>10 - <a href="https://github.com/tonsky/FiraCode">Fira Code &#11206;</a>
 
 ```javascript
 // Font: Fira Code
@@ -561,7 +561,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-fira-mono></a>11 - <a href="https://fonts.google.com/specimen/Fira+Mono">Fira Mono &#11206;</a>
+<td><a id=font-11-fira-mono></a>11 - <a href="https://fonts.google.com/specimen/Fira+Mono">Fira Mono &#11206;</a>
 
 ```javascript
 // Font: Fira Mono
@@ -574,7 +574,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-hack></a>12 - <a href="https://sourcefoundry.org/hack">Hack &#11206;</a>
+<td><a id=font-12-hack></a>12 - <a href="https://sourcefoundry.org/hack">Hack &#11206;</a>
 
 ```javascript
 // Font: Hack
@@ -589,7 +589,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-hasklig></a>13 - <a href="https://github.com/i-tu/Hasklig">Hasklig &#11206;</a>
+<td><a id=font-13-hasklig></a>13 - <a href="https://github.com/i-tu/Hasklig">Hasklig &#11206;</a>
 
 ```javascript
 // Font: Hasklig
@@ -602,7 +602,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-inconsolata></a>14 - <a href="https://fonts.google.com/specimen/Inconsolata">Inconsolata &#11206;</a>
+<td><a id=font-14-inconsolata></a>14 - <a href="https://fonts.google.com/specimen/Inconsolata">Inconsolata &#11206;</a>
 
 ```javascript
 // Font: Inconsolata
@@ -617,7 +617,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-input-mono></a>15 - <a href="https://input.fontbureau.com/download">Input Mono &#11206;</a>
+<td><a id=font-15-input-mono></a>15 - <a href="https://input.fontbureau.com/download">Input Mono &#11206;</a>
 
 ```javascript
 // Font: Input Mono
@@ -630,7 +630,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-input-mono-condensed></a>16 - <a href="https://input.fontbureau.com/download">Input Mono Condensed &#11206;</a>
+<td><a id=font-16-input-mono-condensed></a>16 - <a href="https://input.fontbureau.com/download">Input Mono Condensed &#11206;</a>
 
 ```javascript
 // Font: Input Mono Condensed
@@ -645,7 +645,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-iosevka></a>17 - <a href="https://typeof.net/Iosevka">Iosevka &#11206;</a>
+<td><a id=font-17-iosevka></a>17 - <a href="https://typeof.net/Iosevka">Iosevka &#11206;</a>
 
 ```javascript
 // Font: Iosevka
@@ -658,7 +658,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-menlo></a>18 - <a href="https://github.com/hbin/top-programming-fonts">Menlo &#11206;</a>
+<td><a id=font-18-menlo></a>18 - <a href="https://github.com/hbin/top-programming-fonts">Menlo &#11206;</a>
 
 ```javascript
 // Font: Menlo
@@ -673,7 +673,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-mensch></a>19 - <a href="https://robey.lag.net/2010/06/21/mensch-font.html">Mensch &#11206;</a>
+<td><a id=font-19-mensch></a>19 - <a href="https://robey.lag.net/2010/06/21/mensch-font.html">Mensch &#11206;</a>
 
 ```javascript
 // Font: Mensch
@@ -686,7 +686,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-monofur-nf></a>20 - <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur">Monofur NF &#11206;</a>
+<td><a id=font-20-monofur-nf></a>20 - <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur">Monofur NF &#11206;</a>
 
 ```javascript
 // Font: Monofur NF
@@ -701,7 +701,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-monoid></a>21 - <a href="https://larsenwork.com/monoid/">Monoid &#11206;</a>
+<td><a id=font-21-monoid></a>21 - <a href="https://larsenwork.com/monoid/">Monoid &#11206;</a>
 
 ```javascript
 // Font: Monoid
@@ -714,7 +714,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-monoisome></a>22 - <a href="https://larsenwork.com/monoid/">Monoisome &#11206;</a>
+<td><a id=font-22-monoisome></a>22 - <a href="https://larsenwork.com/monoid/">Monoisome &#11206;</a>
 
 ```javascript
 // Font: Monoisome
@@ -729,7 +729,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-office-code-pro></a>23 - <a href="https://github.com/nathco/Office-Code-Pro">Office Code Pro &#11206;</a>
+<td><a id=font-23-office-code-pro></a>23 - <a href="https://github.com/nathco/Office-Code-Pro">Office Code Pro &#11206;</a>
 
 ```javascript
 // Font: Office Code Pro
@@ -742,7 +742,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-pt-mono></a>24 - <a href="https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono">PT Mono &#11206;</a>
+<td><a id=font-24-pt-mono></a>24 - <a href="https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono">PT Mono &#11206;</a>
 
 ```javascript
 // Font: PT Mono
@@ -757,7 +757,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-roboto-mono></a>25 - <a href="https://fonts.google.com/specimen/Roboto+Mono">Roboto Mono &#11206;</a>
+<td><a id=font-25-roboto-mono></a>25 - <a href="https://fonts.google.com/specimen/Roboto+Mono">Roboto Mono &#11206;</a>
 
 ```javascript
 // Font: Roboto Mono
@@ -770,7 +770,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-sometype-mono></a>26 - <a href="https://monospacedfont.com/">Sometype Mono &#11206;</a>
+<td><a id=font-26-sometype-mono></a>26 - <a href="https://monospacedfont.com/">Sometype Mono &#11206;</a>
 
 ```javascript
 // Font: Sometype Mono
@@ -785,7 +785,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-source-code-pro></a>27 - <a href="https://fonts.google.com/specimen/Source+Code+Pro">Source Code Pro &#11206;</a>
+<td><a id=font-27-source-code-pro></a>27 - <a href="https://fonts.google.com/specimen/Source+Code+Pro">Source Code Pro &#11206;</a>
 
 ```javascript
 // Font: Source Code Pro
@@ -798,7 +798,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 
 ```
 </td>
-<td><a id=font-ubuntu-mono-bront></a>28 - <a href="https://github.com/chrismwendt/bront">Ubuntu Mono - Bront &#11206;</a>
+<td><a id=font-28-ubuntu-mono-bront></a>28 - <a href="https://github.com/chrismwendt/bront">Ubuntu Mono - Bront &#11206;</a>
 
 ```javascript
 // Font: Ubuntu Mono - Bront
@@ -813,7 +813,7 @@ The settings for the following fonts are correctly tested on a 24" monitor FullH
 </td>
 </tr>
 <tr>
-<td><a id=font-victor-mono></a>29 - <a href="https://rubjo.github.io/victor-mono">Victor Mono &#11206;</a>
+<td><a id=font-29-victor-mono></a>29 - <a href="https://rubjo.github.io/victor-mono">Victor Mono &#11206;</a>
 
 ```javascript
 // Font: Victor Mono
